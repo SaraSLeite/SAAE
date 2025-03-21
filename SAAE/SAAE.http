@@ -1,0 +1,6 @@
+@SAAE_HostAddress = https://saaecontas.com
+
+GET {{SAAE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
